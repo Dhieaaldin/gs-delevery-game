@@ -25,7 +25,7 @@ let score = 0;
 let scoreText;
 
 function preload() {
-    this.load.image('background', 'assets/road.webp');
+    this.load.image('background', 'road.webp');
     this.load.image('player', 'assets/bike.webp');
     this.load.image('car', 'assets/car.png');
     this.load.image('delivery', 'assets/delivery.png');
